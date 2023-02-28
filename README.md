@@ -2,5 +2,6 @@
 ## Я учусь в Нетологии на Тестировщика.
 **GIT- система контроля версий, оказалась непростой темой для меня** 
 
-![my photo]("C:\Users\Administrator\Desktop\Безназвания.jpg")
+![my photo](https://i.postimg.cc/XJWDyWH5/image.jpg)
+
 
